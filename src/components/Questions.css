@@ -1,0 +1,39 @@
+.ques-ul{
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.ques-hd{
+    font-size:25px;
+    color: #fff;
+    font-weight: 400;
+}
+
+.addIc{
+    background-color: transparent;
+    border: none;
+    color:#B0F9FF;
+    margin-right:15px;
+
+    
+}
+
+.li-pa{
+    font-size: 14px;
+    color: #fff;
+    font-weight: 400;
+    padding-top: 5px;
+}
+
+.li-alig{
+    display:flex;
+    flex-direction:row;
+    align-items:flex-start;
+}
+
+.ques-main-con{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}

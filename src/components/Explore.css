@@ -1,0 +1,51 @@
+.explore-more{
+    background-color:#CDFCFF;
+    border:1.3px solid #4CDDFD;
+    box-shadow: 0px 1px 1px 0px #4CDCFC inset;
+    font-size:12px;
+    text-align:center;
+    font-weight:400;
+    border-radius:10px;
+    width:90px;
+    height:5vh;
+    margin-bottom:30px;
+}
+
+.explore-hd{
+    font-size: 20px;
+    color: #fff;
+    font-weight: 400;
+}
+
+.sp{
+    font-size: 20px;
+    color: #4CDCFC;
+    font-weight:500;
+}
+
+.expl-pa{
+    font-size:13px;
+    color: var(--color-cyan-8570, #B0FAFFB2);
+    font-weight:400; 
+    text-align: center;
+}
+
+.box-layout{
+    border:1.4px solid #011C24;
+    box-shadow: 0px 0px 32px 16px #63F2FF1A inset;
+    border-radius:13px;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    width:600px ;
+    height:40vh ;
+
+}
+
+.explore-con{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items: flex-start;
+}

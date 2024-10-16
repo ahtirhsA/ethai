@@ -1,0 +1,45 @@
+.toko{
+    height:350px;
+    width:450px;
+    align-self:center;
+    margin-right:40px;
+    box-sizing:border-box;
+}
+
+.tk-main{
+    background-image:url('https://res.cloudinary.com/djzenbn7g/image/upload/v1729058971/lef5frnqi7yam2msnmai.avif');
+    background-size:cover;
+    background-repeat: no-repeat;
+    
+}
+
+.tk-head{
+    font-size:25px;
+    color: #fff;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom:60px;
+}
+
+.ul-1{
+    background-color:#0C2B2FB2;
+    border: none;
+    border-radius:14px;
+    list-style-type: none;
+    opacity:0.8;
+    padding-right:12px;
+
+}
+
+.li-1{
+    color: #fff;
+    font-size:14px;
+    margin-bottom:12px;
+}
+
+.dnt-con{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items:flex-start;
+}

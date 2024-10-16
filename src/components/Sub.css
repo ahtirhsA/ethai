@@ -1,0 +1,22 @@
+.icon{
+    height:20px;
+    width:20px;
+    margin-bottom:12px;
+}
+
+.li-sub{
+    background-color:transparent;
+    color: #fff;
+    
+}
+
+.li-head{
+    font-size:15px;
+    font-weight:500;
+}
+
+.li-para{
+    color:#B0FAFFB2;
+    font-size:12px;
+    
+}
